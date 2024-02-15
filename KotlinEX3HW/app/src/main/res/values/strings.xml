@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin EX3 HW</string>
+    <string name="inputName">Введите ваше имя здесь</string>
+    <string name="inputMood">У вас хорошее настроение?</string>
+    <string name="goodMood">Так держать!</string>
+    <string name="badMood">Смейся и весь мир будет смеяться с тобой
+                           , плачь и ты будешь плакать в одиночестве</string>
+    <string name="nothing">nothing</string>
+    <string name="hello">Здравствуй!</string>
+    <string name="Continue">Продолжить</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kotlin EX3</string>
+    <string name="keyhole_button">keyhole image</string>
+    <string name="textview">Your name</string>
+    <string name="hintInputName">Введите имя</string>
+</resources>
