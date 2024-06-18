@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         val buttonCount = activityMainBinding.buttonCount
         var counter = 0
         buttonCount.setOnClickListener {
-            textView.text = "Я нажал на кнопку " + ++counter + " раз!"
+            textView.text = "Я нажал на кнопку ${++counter} раз!"
         }
     }
 }
