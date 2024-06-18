@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinEx9</string>
+    <string name="write_this_node">Напишите здесь заметку</string>
+    <string name="other_note">Другая заметка</string>
+</resources>
