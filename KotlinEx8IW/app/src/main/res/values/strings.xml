@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinEx8IW</string>
+    <string name="Guess">Угадай</string>
+    <string name="try_myself">Попробую сам</string>
+    <string name="max_in_range">Максимальное число</string>
+    <string name="am_i_guess">Угадал?</string>
+</resources>
