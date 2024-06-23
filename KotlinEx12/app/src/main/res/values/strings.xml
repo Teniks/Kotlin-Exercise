@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KotlinEx12</string>
+    <string name="popup_menu_title_1">Popup menu title 1</string>
+    <string name="popup_menu_title_2">Popup menu title 2</string>
+    <string name="popup_menu_title_3">Popup menu title 3</string>
+    <string name="popup_menu_title_4">Popup menu title 4</string>
+    <string name="popup_menu_title_5">Popup menu title 5</string>
+    <string name="popup_menu_title_6">Popup menu title 6</string>
+    <string name="click_on_me">Нажмите на меня!</string>
+    <string name="something">Something</string>
+    <string name="work_with_popupmenu">Работа с PopupMenu</string>
+    <string name="pastel_orange">Pastel Orange</string>
+    <string name="yellow_crayola">Yellow Crayola</string>
+    <string name="light_green">Light green</string>
+    <string name="_16">16-й размер</string>
+    <string name="_24">24-й размер</string>
+    <string name="_32">32-й размер</string>
+</resources>

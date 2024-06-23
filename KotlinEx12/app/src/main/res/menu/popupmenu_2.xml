@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menugroup1">
+        <item android:id="@+id/item1"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:iconTint="#FF7514"
+            android:iconTintMode="src_in"
+            android:title="@string/pastel_orange"
+            />
+        <item android:id="@+id/item2"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:iconTint="#FCE883"
+            android:iconTintMode="src_in"
+            android:title="@string/yellow_crayola"
+            />
+        <item android:id="@+id/item3"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:iconTint="#99FF99"
+            android:iconTintMode="src_in"
+            android:title="@string/light_green"
+            />
+    </group>
+
+</menu>
