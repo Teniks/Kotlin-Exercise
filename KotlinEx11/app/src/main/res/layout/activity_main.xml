@@ -40,26 +40,27 @@
         app:srcCompat="@drawable/grass" />
 
     <ImageView
-        android:id="@+id/hour_hand"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:padding="10dp"
-        app:layout_constraintTop_toTopOf="@id/clock"
-        app:layout_constraintEnd_toEndOf="@id/sky"
-        app:srcCompat="@drawable/hour_hand" />
-
-    <ImageView
         android:id="@+id/clock"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:padding="10dp"
         android:layout_margin="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/clock" />
+
+    <ImageView
+        android:id="@+id/hour_hand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/hour_hand" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
